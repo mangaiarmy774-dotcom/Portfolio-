@@ -74,7 +74,7 @@ My portfolio website
 
 <header>
   <h1>Mangai Sivasankari Gandhi</h1>
-  <p>IT Student | Future Full Stack Developer</p>
+  <p>IT Student</p>
   <p>📧 mangaiarmy774@gmail.com | 📞 +91 9944304520</p>
   <p>Karaikudi, Tamil Nadu, India</p>
 </header>
@@ -105,13 +105,6 @@ My portfolio website
   <p>
     I completed a value-added course in Mobile Application Development conducted by Micro Systems Pvt. Ltd., Chennai, in association with Dr. Umayal Ramanathan College for Women, Karaikudi. I also completed a three-month training program in Full Stack Development at South Grapes Solutions, Karaikudi, from July 2024 to September 2024.
   </p>
-</section>
-
-<section id="projects">
-  <h2>Projects</h2>
-  <ul>
-    <li><b>Hotel Booking Website</b> – A web application that allows users to view rooms, make reservations, and complete bookings with online payment.</li>
-  </ul>
 </section>
 
 <section id="skills">
